@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26929.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferdo", "Ferdo\Ferdo.csproj", "{D38FB754-9EA5-483D-8515-D86EDDD7332F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferdo.Data", "Ferdo.Data\Ferdo.Data.csproj", "{71A3EEE4-A521-49AB-9C4B-521DA220AA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38FB754-9EA5-483D-8515-D86EDDD7332F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38FB754-9EA5-483D-8515-D86EDDD7332F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38FB754-9EA5-483D-8515-D86EDDD7332F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38FB754-9EA5-483D-8515-D86EDDD7332F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A3EEE4-A521-49AB-9C4B-521DA220AA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A3EEE4-A521-49AB-9C4B-521DA220AA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A3EEE4-A521-49AB-9C4B-521DA220AA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A3EEE4-A521-49AB-9C4B-521DA220AA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D57AD23-1D91-49DB-B0BD-C7F83A078734}
+	EndGlobalSection
+EndGlobal
